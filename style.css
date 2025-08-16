@@ -5,6 +5,7 @@
 }
 body{
     background-color: rgba(0,213,255,1);
+    height: 100vh;
 }
 #menu{
     height: 75px;
@@ -15,6 +16,10 @@ body{
 }
 #menu h1{
 padding-top: 25px;
+}
+main{
+    height: 100%;
+    width: 100%;
 }
 .modal{
     width: 350px;
